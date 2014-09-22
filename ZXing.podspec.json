@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "git@github.com:Tinkertanker/zxing.git",
-    "branch": "xcode6"
+    "tag": "xcode6-workaround"
   },
   "source_files": [
     "cpp/core/src/zxing/**/*.cpp",
