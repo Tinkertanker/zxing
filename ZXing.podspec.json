@@ -1,6 +1,6 @@
 {
   "name": "ZXing",
-  "version": "2.2",
+  "version": "2.2-xcode6",
   "summary": "Multi-format 1D/2D barcode image processing library.",
   "homepage": "http://code.google.com/p/zxing/",
   "authors": "ZXing team (http://code.google.com/p/zxing/people/list)",
