@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "git@github.com:Tinkertanker/zxing.git",
-    "tag": "2.2"
+    "branch": "xcode6"
   },
   "source_files": [
     "cpp/core/src/zxing/**/*.cpp",
